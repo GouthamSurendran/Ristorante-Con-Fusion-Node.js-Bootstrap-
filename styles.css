@@ -1,0 +1,6 @@
+h1{
+    font-family: sans-serif;  /** Changes the font style of the text */
+    color: rgb(0, 114, 0);  /** Changes the color of the text */
+    margin-left: 100px;          /** Adds a left margin of 100px to the text */
+   text-decoration: underline;   /** Adds an underline to the text */
+}
