@@ -1,0 +1,22 @@
+{
+  "name": "prjkt1",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn Node.js\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouthamSurendran/Courser-2.git"
+  },
+  "author": "Goutham Surendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GouthamSurendran/Courser-2/issues"
+  },
+  "homepage": "https://github.com/GouthamSurendran/Courser-2#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
